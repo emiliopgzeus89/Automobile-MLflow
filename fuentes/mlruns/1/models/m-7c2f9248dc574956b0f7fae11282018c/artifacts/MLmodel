@@ -1,0 +1,25 @@
+artifact_path: "file:c:/Users/haaal/Desktop/Maestr\xEDa/Maestr\xEDa - Gesti\xF3n de\
+  \ proyectos de inteligencia artificial/Actividad5/Actividad_Automobile_MLflow/fuentes/mlruns/1/models/m-7c2f9248dc574956b0f7fae11282018c/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.8.0
+    skops_trusted_types:
+    - numpy.dtype
+mlflow_version: 3.17.1
+model_id: m-7c2f9248dc574956b0f7fae11282018c
+model_size_bytes: 269254
+model_uuid: m-7c2f9248dc574956b0f7fae11282018c
+prompts: null
+run_id: 4ea2ac007f39478c89bd9015690927d7
+utc_time_created: '2026-10-18 23:07:57.434492'

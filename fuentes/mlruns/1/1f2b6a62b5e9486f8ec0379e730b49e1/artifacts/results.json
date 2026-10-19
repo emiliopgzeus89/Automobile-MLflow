@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "model__max_depth": 8,
+    "model__min_samples_leaf": 1,
+    "model__n_estimators": 100
+  },
+  "metrics": {
+    "cv_rmse": 2296.447058738663,
+    "test_mae": 1823.7013500642881,
+    "test_rmse": 2787.130811849898,
+    "test_r2": 0.9365075353715054
+  }
+}
